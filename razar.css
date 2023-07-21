@@ -1,0 +1,115 @@
+nav ul {
+    display: flex;
+    background-color: black;
+    list-style-type: none;
+    color: white;
+}
+
+nav ul li {
+    padding: 30px;
+    size: 10px;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+}
+
+#laptop {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+
+/* .heading1 {
+    position: relative;
+    text-align: center;
+    top: 100 px;
+    left: 50px;
+    color: white;
+} */
+
+h1 h3 h4 {
+    text-align: center;
+    color: white;
+}
+
+.all img {
+    width: 100%;
+    height: 100%;
+}
+
+#half {
+    display: grid;
+    width: 50%;
+    height: 100%;
+}
+
+.images {
+    display: grid;
+    width: 50%;
+    height: 100%;
+}
+
+.align {
+    display: grid;
+    width: 50%;
+    height: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+.center {
+    display: flex;
+    flex-flow: row wrap;
+    width: 91%;
+    padding: 0;
+}
+
+.center img {
+    position: relative;
+}
+
+.heading2 {
+    position: relative;
+    text-align: center;
+    top: 10%;
+    margin: -40;
+}
+
+.heading3 {
+    position: relative;
+    top: 20%;
+    margin: -40;
+}
+
+.laptop {
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
+
+.heading {
+    position: absolute;
+    color: #f8f8f8;
+}
+
+.clrWhite {
+    color: #ffffff;
+    position: absolute;
+}
+
+.ksh {
+    position: relative;
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: row;
+}
+
+.two {
+    display: -webkit-inline-box;
+    width: 55%;
+}
